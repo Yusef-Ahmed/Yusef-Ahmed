@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Youssef Ahmed
 
-I’m a **Computer Science Student** in 3rd year in collage
+I’m a **Computer Science Student** in 4rd year in collage
 
 <!-- name and who i am end -->
 
