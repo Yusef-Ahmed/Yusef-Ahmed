@@ -4,7 +4,9 @@ I'm a software engineer and a competitive programmer (2x ACPC)
 [![](https://visitcount.itsvg.in/api?id=Yusef-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yussif-ahmed) [![Gmail](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousef.a.saad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousef.a.saad) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yussif-ahmed) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yousseffcai@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/yousef.a.saad) 
 
 # 💻 Tech Stack:
 <div >
