@@ -3,7 +3,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg](https://linkedin.com/in/yussif-ahmed">
-		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=1000&size=35&pause=1000&width=435&lines=Software+engineer;Competitive+programmer+2x+ACPC" 
+		<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&center=true&weight=1000&size=35&pause=1000&width=435&lines=Software+engineer;Competitive+programmer" 
 		alt="Typing SVG" />
 	</a>
 	<p align="left"> <img  src="https://komarev.com/ghpvc/?username=Yusef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="youssefahmed" /></p>
